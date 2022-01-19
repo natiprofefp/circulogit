@@ -2,6 +2,8 @@ package circulo;
 /**
  * Clase <code>Circulo</code> para pruebas en NetBeans 
  */
+ /* modifico desde master */
+ 
 public class Circulo {
 	/**
 	 *  valor de x
